@@ -1,4 +1,5 @@
 -  Hi, I’m @Niaex
 - I’m a highschooler who are trying to learn how to code
 - 🌱 comment and advices are extremely welcome.
-- English is not my first language, so i'm sorry if i make any mistakes.
+- English is not my first language, so I'm sorry if i make any mistakes.
+- I'm currently learning java and C#
