@@ -1,0 +1,4 @@
+-  Hi, I’m @Niaex
+- I’m a highschooler who are trying to learn how to code
+- 🌱 comment and advices are extremely welcome.
+- English is not my first language, so i'm sorry if i make any mistakes.
